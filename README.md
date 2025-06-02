@@ -31,7 +31,7 @@ cosmetic-chatbot/<br>
 ├── static/              # (Optional) CSS/JS/Images<br>
 └── templates/<br>
     └── index.html       # Chatbot frontend<br>
-
+    
 ### Future Enhancements 🔮    
 Database Integration (SQLite/PostgreSQL for dynamic responses)<br>
 User Authentication for order tracking<br>
