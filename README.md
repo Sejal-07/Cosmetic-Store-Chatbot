@@ -1,7 +1,8 @@
 # FUTURE_ML_03
 # BeautyBot - Cosmetic Store Chatbot🚀💄
 A Python-based intelligent chatbot designed to revolutionize customer support for cosmetic e-commerce platforms. Built with NLTK for natural language processing and Flask for backend services, this solution features a modern, responsive web interface that delivers instant, accurate responses to customer inquiries 24/7.<br>
-(https://github.com/user-attachments/assets/398ac72a-470c-4cb2-953d-18c2335b26bd)
+
+<img src="https://github.com/user-attachments/assets/398ac72a-470c-4cb2-953d-18c2335b26bd">
 
 ### Features ✨
 ✅ Natural Language Processing (NLP) for intent detection<br>
