@@ -28,7 +28,7 @@ A Python-based intelligent chatbot designed to revolutionize customer support fo
 cosmetic-chatbot/<br>
 ├── app.py                # Flask backend & NLP logic<br>
 ├── requirements.txt      # Python dependencies<br>
-├── static/              # (Optional) CSS/JS/Images<br>
+├── static/               # CSS/JS/Images<br>
 └── templates/<br>
     └── index.html       # Chatbot frontend<br>
 
